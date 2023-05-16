@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Juliano
--Profissão: Desenvolvedor / QA
+-Profissão: Desenvolvedor
 -Cidade: Viamão/RS
 -O que faz nas horas vaga: Jogar Futebol
 -Feedback sobre o curso Qualidade de Software: Por enquanto estou gostando muito.
